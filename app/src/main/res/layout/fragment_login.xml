@@ -17,13 +17,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             android:textSize="@dimen/text_size_18"
-            android:text="splash"/>
-
-        <Button
-            android:id="@+id/btnToLogin"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="to login"/>
+            android:text="login"/>
 
         <Button
             android:id="@+id/btnToHome"
